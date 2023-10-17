@@ -1,0 +1,20 @@
+{
+  "name": "get-weather-forecast-webtips",
+  "version": "1.1.0",
+  "description": "provides all city forecast data",
+  "main": "index.cjs",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https:/github.com/sganeshkumaar/weather_forecast_webtips_package.git)"
+  },
+  "keywords": [
+    "webtips",
+    "soliton",
+    "ganeshkumaar"
+  ],
+  "author": "ganeshkumaar selvaraj",
+  "license": "ISC"
+}
